@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How many annual leave days do I get?",
+    "reference_answer": "Employees are entitled to 21 days of annual leave per year."
+  },
+  {
+    "question": "Who approves leave during probation?",
+    "reference_answer": "Leave during probation requires HR approval."
+  },
+  {
+    "question": "Can remote employees ignore IT security rules?",
+    "reference_answer": "No, remote employees must comply with IT security rules."
+  }
+]
