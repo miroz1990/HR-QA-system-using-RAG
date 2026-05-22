@@ -357,10 +357,9 @@ Potential future upgrades:
 
 # Deployment
 
-This project can be deployed using:
+This project id deployed using:
 
-* Streamlit Community Cloud
-* Hugging Face Spaces
+* Streamlit Community Cloud: https://technova-hr-assistant.streamlit.app/
 
 ---
 
