@@ -130,9 +130,12 @@ TechNova HR Policy Assistant/
 │       └── grievance_policy.txt
 │
 ├── embeddings/
-│
+│   ├──faiss_index.bin
+│   ├──metadata.pkl
 ├── assets/
-│
+│   ├──evaluation.png
+│   ├──sources.png
+│   ├──streamlit_ui.png
 ├── src/
 │   ├── __init__.py
 │   ├── chunking.py
@@ -178,8 +181,6 @@ TechNova HR Policy Assistant/
 ## Evaluation
 
 * LLM-as-a-Judge evaluation
-* CSV export
-* Score visualization
 
 ---
 
@@ -297,8 +298,7 @@ The evaluation framework:
 
 * Generates answers
 * Evaluates correctness, grounding, and relevance
-* Saves results to CSV
-* Visualizes evaluation scores
+* Prints evaluation scores
 
 Example metrics:
 
