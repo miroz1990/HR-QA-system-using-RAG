@@ -1,8 +1,8 @@
-# Enterprise HR Policy Assistant (RAG-based QA System)
+# TechNova HR Policy Assistant (RAG-based QA System)
 
 ## Overview
 
-Enterprise HR Policy Assistant is an enterprise-grade Retrieval-Augmented Generation (RAG) system designed to answer employee questions using internal HR policy documents.
+TechNova HR Policy Assistant is an enterprise-grade Retrieval-Augmented Generation (RAG) system designed to answer employee questions using internal HR policy documents.
 
 The system combines:
 
@@ -117,7 +117,7 @@ Grounded Answer + Sources
 # Project Structure
 
 ```text
-Enterprise HR Policy Assistant/
+TechNova HR Policy Assistant/
 │
 ├── data/
 │   └── hr_docs/
